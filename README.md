@@ -18,7 +18,7 @@ En este trabajo, mi objetivo es presentar dos casos de **hibriadción**, los cua
 
 Basándome en **Lev Manovich** y en su libro *El software toma el mando (2013)*, se entiende la hibridación como la combinación de distintos medios, lenguajes y formas culturales dentro de un mismo entorno digital, donde el *software* permite que interactúen y generen nuevas experiencias.
 
-Una vez presentado el concepto, ahora es el momento de pasar a desgranarlo utilizando dos casos específicos; en este trabajo he escogido centrarme en los siguientes: **Unsupervised** y **Plink**
+Una vez presentado el concepto, ahora es el momento de pasar a desgranarlo utilizando dos casos específicos; en este trabajo he escogido centrarme en los siguientes: **Unsupervised** y **Plink**. He escogido estos dos casos porque son diferentes entre sí y ambos nos pueden ayudar a entender el concepto de hibridación desde perspectivas distintas en un principio, pero similares en la base.
 
 
 
@@ -26,8 +26,21 @@ Una vez presentado el concepto, ahora es el momento de pasar a desgranarlo utili
 
 ## Re-descubriendo la hibridacion: Caso 1 - Unsupervised
 
+### ¿Qué es "**Unsupervised**"?
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+### ¿Qué medios mezcla?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### ¿Cómo lo ve Manovich?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### Reflexión personal
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 ## Re-descubriendo la hibridacion: Caso 2 - Plink
