@@ -16,7 +16,7 @@ En este trabajo mi objetivo es presentar dos casos de **hibriadción** los cuale
 
 Basandome en **Lev Manovich** y en su libro *El Software toma el mando (2013)* se entiende la hibridación como la combinación de distintos medios, lenguajes y formas culturales dentro de un mismo entorno digital, donde el *software* permite que interactúen y generen nuevas experiencias.
 
-![**Lev Manovich.** *El Software toma el mando*](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![**Lev Manovich.** *El Software toma el mando*](manovichSoft.jpg) 
 
 
 
