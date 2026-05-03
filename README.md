@@ -2,7 +2,7 @@
 
 
 **Alumno:** Germán Navasa Milán   
-**Fecha de entrega:** 15 de mayo de 2026 - 2º Semestre  
+**Fecha de entrega:** 15 de mayo de 2026 — 2º Semestre  
 **Asignatura:** Cultura Digital (20.644) — Aula 1
 
 <img src=1_2.png width="800">  
