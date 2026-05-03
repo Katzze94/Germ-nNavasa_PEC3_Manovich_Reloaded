@@ -3,10 +3,9 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Autor: 
-
-
-Fecha: 
+Alumno: Germán Navasa Milán
+Fecha de entrega: 15-5-26
+Asignatura: Cultura Digital (20.644) — Aula 1
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
