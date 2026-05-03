@@ -6,7 +6,7 @@
 
 **Asignatura:** Cultura Digital (20.644) — Aula 1
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+<img src=1_2.png width="800">  
 
 
 
