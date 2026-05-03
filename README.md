@@ -1,6 +1,6 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-**Alumno:** Germán Navasa Milán
+**Alumno:** Germán Navasa Milán 
 
 **Fecha de entrega:** 15-5-26
 
