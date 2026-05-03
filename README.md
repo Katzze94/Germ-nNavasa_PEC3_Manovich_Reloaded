@@ -10,15 +10,20 @@
 
 
 
-## Introducción
+## Introducción a la hibridación
+ 
+
+<img src=manovichSoft.jpg width="200"  align="right">
 
 En este trabajo mi objetivo es presentar dos casos de **hibriadción** los cuales trataremos mas adelante, pero antes de comenzar considero importante establecer primero lo que significa este concepto y su releveancia.
 
 Basandome en **Lev Manovich** y en su libro *El Software toma el mando (2013)* se entiende la hibridación como la combinación de distintos medios, lenguajes y formas culturales dentro de un mismo entorno digital, donde el *software* permite que interactúen y generen nuevas experiencias.
 
-![**Lev Manovich.** *El Software toma el mando*](manovichSoft.jpg) 
+Una vez presentado el conepto ahora es el momento de pasar a desgranarlo utilizando dos casos especificos, en este trabajo he escogido centrarme en los siguientes: **Unsupervised** y **Plink**
 
 
+
+<br clear="all">
 
 ## Re-descubriendo la hibridacion: Caso 1 - Unsupervised
 
