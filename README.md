@@ -3,11 +3,11 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 
-Alumno: Germán Navasa Milán
+## Alumno: Germán Navasa Milán
 
-Fecha de entrega: 15-5-26
+## Fecha de entrega: 15-5-26
 
-Asignatura: Cultura Digital (20.644) — Aula 1
+## Asignatura: Cultura Digital (20.644) — Aula 1
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
