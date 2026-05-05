@@ -14,7 +14,7 @@
 
 <img src=manovichSoft.jpg width="200"  align="right">
 
-En este trabajo, mi objetivo es presentar dos casos de **hibriadción**, los cuales trataremos más adelante, pero antes de comenzar, considero importante establecer primero lo que significa este concepto y su relevancia.
+En este trabajo, mi objetivo es presentar dos casos de **hibridación**, los cuales trataremos más adelante, pero antes de comenzar, considero importante establecer primero lo que significa este concepto y su relevancia.
 
 Basándome en **Lev Manovich** y en su libro *El software toma el mando (2013)*, se entiende la hibridación como la combinación de distintos medios, lenguajes y formas culturales dentro de un mismo entorno digital, donde el *software* permite que interactúen y generen nuevas experiencias.
 
@@ -28,7 +28,9 @@ Una vez presentado el concepto, ahora es el momento de pasar a desgranarlo utili
 
 ### ¿Qué es "**Unsupervised**"?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+La obra *Unsipervised*, llevada a cabo por **Refik Anadol** y presentada en el **Museum of Modern Art**, supone un ejemplo innovador en el campo del arte digital contemporáneo basado en la inteligencia artificial. En esta obra se utilizan modelos de *machine learning* entrenados mediante datos de la propia colección del museo para generar visualizaciones a tiempo real; de esta manera se transforman archivos históricos, los cuales serían presentados como elementos estáticos, y pasan a ser una experiencia visual dinámica e inmersiva.
+
+Un punto a destacar es que, a diferencia de una obra convencional, **Unsupervised** no siempre muestra un contenido fijo, sino que este va evolucionando a partir de los datos y algoritmos que le aportan. De esta manera, nosotros, los espectadores, no solo observamos una pieza estática, sino un sistema generativo en transformación constante.
 
 ### ¿Qué medios mezcla?
 
