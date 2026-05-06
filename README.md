@@ -34,7 +34,16 @@ Un punto a destacar es que, a diferencia de una obra convencional, **Unsupervise
 
 ### ¿Qué medios mezcla?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En este caso podemos ver algo que va mas allá de un ejemplo simple de multimedia debido a que no se trata únicamente de distintos medios coexisteinedo, sino de su integración profunda medainte *software*.
+
+En **Unsupervised** se combinan:
+-Arte visual
+-Base de datos culturales
+-Inteligencia artificial
+-Visualización generativa
+-El espacio físico del museo
+
+Y si nos basamos en **Lev Mannovic**, esta integracón no es algo simple, sino mas bien una mezcla estrucutral donde los medios en si pierden su autonomía inicial y pasan a formar parte de un nuevo sistema. Es aquí donde vemos la autentica hibridación de medios.
 
 ### ¿Cómo lo ve Manovich?
 
