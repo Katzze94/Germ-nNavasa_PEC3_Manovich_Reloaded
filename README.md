@@ -36,7 +36,8 @@ Un punto a destacar es que, a diferencia de una obra convencional, **Unsupervise
 
 En este caso podemos ver algo que va mas allá de un ejemplo simple de multimedia debido a que no se trata únicamente de distintos medios coexisteinedo, sino de su integración profunda medainte *software*.
 
-En **Unsupervised** se combinan:
+En **Unsupervised** se combinan:  
+
 -Arte visual  
 
 -Base de datos culturales  
