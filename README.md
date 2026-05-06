@@ -32,7 +32,7 @@ La obra *Unsipervised*, llevada a cabo por **Refik Anadol** y presentada en el *
 
 Un punto a destacar es que, a diferencia de una obra convencional, **Unsupervised** no siempre muestra un contenido fijo, sino que este va evolucionando a partir de los datos y algoritmos que le aportan. De esta manera, nosotros, los espectadores, no solo observamos una pieza estática, sino un sistema generativo en transformación constante.
 
-<img src=unsupervised.jpeg width="400"  align="center">
+<img src=unsupervised.jpeg width="200"  align="center">
 
 ### ¿Qué medios mezcla?
 
