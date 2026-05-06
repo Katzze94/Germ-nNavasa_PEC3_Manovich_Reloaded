@@ -32,6 +32,8 @@ La obra *Unsipervised*, llevada a cabo por **Refik Anadol** y presentada en el *
 
 Un punto a destacar es que, a diferencia de una obra convencional, **Unsupervised** no siempre muestra un contenido fijo, sino que este va evolucionando a partir de los datos y algoritmos que le aportan. De esta manera, nosotros, los espectadores, no solo observamos una pieza estática, sino un sistema generativo en transformación constante.
 
+<img src=unsupervised.jpeg width="400"  align="center">
+
 ### ¿Qué medios mezcla?
 
 En este caso podemos ver algo que va mas allá de un ejemplo simple de multimedia debido a que no se trata únicamente de distintos medios coexisteinedo, sino de su integración profunda medainte *software*.
@@ -50,7 +52,7 @@ En **Unsupervised** se combinan:
 
 Y si nos basamos en **Lev Mannovic**, esta integracón no es algo simple, sino mas bien una mezcla estrucutral donde los medios en si pierden su autonomía inicial y pasan a formar parte de un nuevo sistema. Es aquí donde vemos la autentica hibridación de medios.
 
-<img src=1_2.png width="800">  
+ 
 
 ### ¿Cómo lo ve Manovich?
 
