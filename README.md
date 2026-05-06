@@ -28,11 +28,13 @@ Una vez presentado el concepto, ahora es el momento de pasar a desgranarlo utili
 
 ### ¿Qué es "**Unsupervised**"?
 
+<img src=unsupervised.jpeg width="200"  align="right">
+
 La obra *Unsipervised*, llevada a cabo por **Refik Anadol** y presentada en el **Museum of Modern Art**, supone un ejemplo innovador en el campo del arte digital contemporáneo basado en la inteligencia artificial. En esta obra se utilizan modelos de *machine learning* entrenados mediante datos de la propia colección del museo para generar visualizaciones a tiempo real; de esta manera se transforman archivos históricos, los cuales serían presentados como elementos estáticos, y pasan a ser una experiencia visual dinámica e inmersiva.
 
 Un punto a destacar es que, a diferencia de una obra convencional, **Unsupervised** no siempre muestra un contenido fijo, sino que este va evolucionando a partir de los datos y algoritmos que le aportan. De esta manera, nosotros, los espectadores, no solo observamos una pieza estática, sino un sistema generativo en transformación constante.
 
-<img src=unsupervised.jpeg width="200"  align="center">
+<br clear="all">
 
 ### ¿Qué medios mezcla?
 
