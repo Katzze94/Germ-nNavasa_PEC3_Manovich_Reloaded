@@ -58,11 +58,21 @@ Y si nos basamos en **Lev Mannovic**, esta integracón no es algo simple, sino m
 
 ### ¿Cómo lo ve Manovich?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Desde la prespectiva teórica de **Manovich**, *Unsupervised* es un ejemplo claro de cómo el software se convierte en el agente central de la producción culutral. No solo esta obra no representa datos de forma pasiva, sino que los interpreta y los transforma medainte algoritmos, creando nuevas formas visuales.
+
+Si tenemos esto en cuenta, podemos afirma que se produce una evolución del medio artístico, donde el *software* no es solo una herramienta auxiliar tal y como estamos acostumbrados hoy en dia, sino que se convierte en el propio medio. La pintura o la escultura le abren la puerta a sistemas basados en datos y código, donde la estética perse emerge de procesos computacionales.
+
+A su vez, ocurre un nuevo tipo de representación híbrida: una visualización generativa donde se combinan características de el propio porceso artistico y estas se mezclan con estrucutras derivadas de bases de datos. Esto nos conecta directamente con la idea de **Manovich** de la base de datos como forma culutral, donde los propios contenidos no son organizados narrativamente, sino mas bien como unos conjuntos dinámicos susceptibles de ser recombinados.
+
+En este caso, la interacción no es directa en el sentido tradicional, sino que es el propio espectador el que se enfrenta a una obra cambiante; por ende, este se ve obligado a adaptarse constantemente con tal de poder entender la trascendencia de la obra y disfrutar de la experiencia completa. Su actitud frente a esta deja de ser pasiva y pasa a ser la de una relación con un sistema vivo, en constante cambio.
 
 ### Reflexión personal
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Personalmente, creo que Unsupervised supone un punto de inflexión en la relación que existe entre el arte y la tecnología. En esta obra no solo vemos el uso de herramientas digitales, sino que se redefine el proceso creativo de delegar parte de la autoría a sistemas algorítmicos.
+
+Ciertamente, esto nos hace cuestionarnos si realmente está bien que estos procesos se lleven a cabo; pese a ser interesantes, considero que deben tomarse como excepción y no como norma. Los trabajos artísticos bien realizados suelen representar una visión concreta del autor; estos tienen un trozo de alma en ellos. En este caso, eso se ve diluido por los procesos generativos de la IA.
+
+Considero que **Unsupervised* como proyecto revolucionario y original rompe el molde prestablecido y puede considerarse una obra de arte en sí misma; la individualidad que posee la hace merecedora de esta categoría. Ahora bien, no considero que deba tomarse como camino a seguir si lo que queremos es preservar el arte humano, sí como muestra de lo que se puede llegar a hacer, pero nunca con el fin de ser como esta en su totalidad.
 
 
 ## Re-descubriendo la hibridacion: Caso 2 - Plink
