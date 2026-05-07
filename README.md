@@ -68,11 +68,11 @@ En este caso, la interacción no es directa en el sentido tradicional, sino que 
 
 ### Reflexión personal
 
-Personalmente, creo que Unsupervised supone un punto de inflexión en la relación que existe entre el arte y la tecnología. En esta obra no solo vemos el uso de herramientas digitales, sino que se redefine el proceso creativo de delegar parte de la autoría a sistemas algorítmicos.
+Personalmente, creo que **Unsupervised** supone un punto de inflexión en la relación que existe entre el arte y la tecnología. En esta obra no solo vemos el uso de herramientas digitales, sino que se redefine el proceso creativo de delegar parte de la autoría a sistemas algorítmicos.
 
 Ciertamente, esto nos hace cuestionarnos si realmente está bien que estos procesos se lleven a cabo; pese a ser interesantes, considero que deben tomarse como excepción y no como norma. Los trabajos artísticos bien realizados suelen representar una visión concreta del autor; estos tienen un trozo de alma en ellos. En este caso, eso se ve diluido por los procesos generativos de la IA.
 
-Considero que **Unsupervised* como proyecto revolucionario y original rompe el molde prestablecido y puede considerarse una obra de arte en sí misma; la individualidad que posee la hace merecedora de esta categoría. Ahora bien, no considero que deba tomarse como camino a seguir si lo que queremos es preservar el arte humano, sí como muestra de lo que se puede llegar a hacer, pero nunca con el fin de ser como esta en su totalidad.
+Considero que **Unsupervised** como proyecto revolucionario y original rompe el molde prestablecido y puede considerarse una obra de arte en sí misma; la individualidad que posee la hace merecedora de esta categoría. Ahora bien, no considero que deba tomarse como camino a seguir si lo que queremos es preservar el arte humano, sí como muestra de lo que se puede llegar a hacer, pero nunca con el fin de ser como esta en su totalidad.
 
 
 ## Re-descubriendo la hibridacion: Caso 2 - Plink
