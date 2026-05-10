@@ -79,7 +79,7 @@ Considero que **Unsupervised** como proyecto revolucionario y original rompe el 
 
 ### ¿Qué es "**Plink**"?
 
-<img src=unsupervised.jpeg width="200"  align="right">
+<img src=share_plink.jpg width="200"  align="right">
 
 Es una aplicaión interactiva donde se combinan la música, visualiación y participación colectiva en tiempo real. Esta plataforma permite a sus usuarios generar sonidos e interacciones visuales a traves de acciones muy simples sobre su interfaz, de esta manera se produce una experiencia híbrida entre instrumentos musicales, videojuegos y un entorno audiovisual.
 
