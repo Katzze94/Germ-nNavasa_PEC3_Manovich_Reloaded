@@ -92,7 +92,21 @@ De esta forma la experiencia deja de estar orientada únicamente al consumo y pa
 
 ### ¿Qué medios mezcla?
 
+En este caso aparece una hibridación clara entre medios, ya que se integran múltiples lenguajes y tecnologías dentro de la misma experiencia digital.
 
+Ahora citaré unas cuantas:
+
+-Música digital
+
+-Animación y visualización gráfica
+
+-Interacción táctil
+
+-Programación en tiempo real
+
+-Participación colectiva
+
+Podemos consideralra una evolución al medio musical tradicional. La música deja de ser un contenido cerrado y pasa a poder trasnformarse en un tenrono reactivo y participativo donde el susuario influye directamente en el resultado final.
  
 
 ### ¿Cómo lo ve Manovich?
