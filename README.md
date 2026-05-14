@@ -83,7 +83,7 @@ Considero que **Unsupervised** como proyecto revolucionario y original rompe el 
 
 Es una aplicaión interactiva donde se combinan la música, visualiación y participación colectiva en tiempo real. Esta plataforma permite a sus usuarios generar sonidos e interacciones visuales a traves de acciones muy simples sobre su interfaz, de esta manera se produce una experiencia híbrida entre instrumentos musicales, videojuegos y un entorno audiovisual.
 
-Se diferencia de una aplicación reprdouctora de música tradicional, **Plink** no solo se centra en reproduccir el contenido sonor, sino en la propoia creacci´pn instantánea y compartida de experiencias audiovisuales. Cada una de estas interacciones modifica tanto el sonido como la porpia representación visual del entorno digital, generando un sistema dinámico y participativo.
+Se diferencia de una aplicación reprdouctora de música tradicional, **Plink** no solo se centra en reproduccir el contenido sonor, sino en la propia creacción instantánea y compartida de experiencias audiovisuales. Cada una de estas interacciones modifica tanto el sonido como la porpia representación visual del entorno digital, generando un sistema dinámico y participativo.
 
 De esta forma la experiencia deja de estar orientada únicamente al consumo y pasa a convertirse en una forma de creción interactiva medida por el propio software.
 
@@ -111,16 +111,33 @@ Podemos consideralra una evolución al medio musical tradicional. La música dej
 
 ### ¿Cómo lo ve Manovich?
 
+**Plink** representa un ejemplo de cómo el software redefine las formas de creación y expereiencia culutra. El propio programa no actúa únicamente como soporte técnico, sino que va mas allá convirtiendose en un sistema con la capacidad de coordinar distintos medios y convertirlos en una experiencia híbrida unificada.
 
+Algo que **Manovich** destacaría en este caso es la aparición de nuevas formas de interacción con los medios. El usuario deja de ser un espectador y pasa a convetirse en un participante activo del propio sistema. Cada acción que este realiza modifica simultánemaente sonido, movimineto y composición visual, creandose así una relación directa entre interacción y resultado estético.
+
+**Plink** es capaz de generar un nuevo lenguaje híbrido donde la música ya no existe de manera independiente, sino vinculada a dinámicas visuales e interactivas, y esto tiene relación directa con lo que expresa **Manovich** sobre que el software permite la recombinación de técnicas y lenguajes previamente separados.
+
+Por otro lado, la estética de **Plink** responde claramente a la lógica de la cultura digital contemporánea: minimalismo visual, respuesta inmediata e integracción entre experiencia lúdica y creación audiovisual.
 
 ### Reflexión personal
 
+Considero que **Plink** ha demostrado como el software ha transformado profundamente la relación entre usuario y medio digital. Esta aplicación, la cual desconocía, rompe por completo con la separación tradicional entre creador y espectador, porque permite a cualquier persona participar activamente en la construcción de la experiencia audiovisual.
+
+Además, considero interesante cómo esta obra convierte acciones simples en unos resultados complejos y muy atractivos. Cualquier usuario puede usarla, no necestia conocimientos musicales para formar parte del proceso creativo, ya que el software automatiza gran parte de la composición y cordinación audiovisual.
+
+**Plink** es una clara evidencia de cómo la hibridación contemporánea ya no consiste únicamente en mezclar formatos, sino en generar sistemas interactivos donde sonido, imagen y participación funcionan como única expreiencia.
 
 
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+  
+* Google Creative Lab y DinahMoe. (s. f.). Plink: Multiplayer music experience. Experiments with Google. https://experiments.withgoogle.com/plink-multiplayer-music-experience
+
+* Refik Anadol. (s. f.). Unsupervised. Refik Anadol Studio. https://refikanadol.com/works/unsupervised/
+  
+* The Museum of Modern Art. (2022). Refik Anadol: Unsupervised
 
 
 ----
